@@ -1,6 +1,8 @@
 # c-multiplication-table
 Code to generate a multiplication table in C.
 
+99乘法表-C語言版
+
 N x N values
 
 Result:
